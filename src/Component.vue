@@ -18,7 +18,7 @@
       },
       siteKey: {
         type: String,
-        default: 'SF4YQtgkNYmwR21W8NzKwixVdHB8wlDf',
+        default: 'PAOlkVmYxTHUi8hBeGkw0H3XZWPIb4gR',
         required: false,
       },
       userName: {

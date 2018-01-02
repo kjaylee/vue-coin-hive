@@ -1,13 +1,13 @@
 {
-  "name": "vue-coin-hive",
+  "name": "@k.jaylee/vue-coin-hive",
   "version": "0.0.8",
   "description": "Coin hive Vue component",
-  "author": "Jason Shin <visualbbasic@gmail.com>",
+  "author": "k.jaylee (k.jaylee@gmail.com)",
   "main": "dist/vue-coin-hive.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JasonShin/vue-coin-hive"
+    "url": "https://github.com/kjaylee/vue-coin-hive"
   },
   "scripts": {
     "dist": "vue build ./src/index.js --config ./build.config.js --dist ./dist/ --prod --lib",
