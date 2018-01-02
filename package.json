@@ -1,6 +1,6 @@
 {
   "name": "@k.jaylee/vue-coin-hive",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Coin hive Vue component",
   "author": "k.jaylee (k.jaylee@gmail.com)",
   "main": "dist/vue-coin-hive.js",
